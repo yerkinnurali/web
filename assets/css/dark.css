@@ -100,4 +100,9 @@
     background-color: #2d2d2d;
     border-color: #404040;
 }
-
+body.theme-dark,
+body.theme-dark main,
+body.theme-dark section {
+    background-color: #1a1a1a !important;
+    color: #e0e0e0;
+}

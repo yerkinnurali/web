@@ -11,9 +11,9 @@ const services = [
 ];
 
 const teamMembers = [
-    { name: 'Aigul Nurlandykyzy', role: 'Head Chef', bio: '10+ years of experience in traditional Kazakh cuisine' },
-    { name: 'Erlan Qasymuly', role: 'Master Cook', bio: 'Expert in preparing authentic Kazakh dishes' },
-    { name: 'Quralay Amangeldikyzy', role: 'Service Manager', bio: 'Dedicated to providing excellent customer service' }
+    { name: 'Ilyas Ramatullaev', role: 'Head Chef', bio: '10+ years of experience in traditional Kazakh cuisine' },
+    { name: 'Nurali Yerkin', role: 'Master Cook', bio: 'Expert in preparing authentic Kazakh dishes' },
+    { name: 'John Doe', role: 'Service Manager', bio: 'Dedicated to providing excellent customer service' }
 ];
 
 const features = [

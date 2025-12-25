@@ -12,3 +12,4 @@ ALTER TABLE portfolio_items AUTO_INCREMENT = 1;
 -- Verify table is empty
 SELECT COUNT(*) as remaining_items FROM portfolio_items;
 
+

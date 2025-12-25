@@ -4,7 +4,7 @@
             <div class="footer-section">
                 <h3>Contact Us</h3>
                 <p>Email: info@kazakhcuisine.kz</p>
-                <p>Phone: +7 (XXX) XXX-XX-XX</p>
+                <p>Phone: +7 (747) 715-46-07</p>
             </div>
             <div class="footer-section">
                 <h3>Follow Us</h3>

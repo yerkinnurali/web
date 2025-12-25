@@ -1,4 +1,4 @@
-# Creative Portfolio & Booking System
+﻿# Creative Portfolio & Booking System
 
 A fully functional web application for showcasing creative portfolios and managing client bookings, built with HTML5, CSS3, JavaScript, PHP, and MySQL.
 
@@ -142,3 +142,4 @@ Accepts booking data and inserts into database.
 - Database credentials should be updated in `includes/config.php`
 - All forms use AJAX submission (no page reloads)
 - Theme preference is saved in cookies
+
